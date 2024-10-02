@@ -14,5 +14,6 @@ void fun(int n)
 }
 int main(){
     int n;
-    fun(5);
+    cin>>n;
+    fun(n);
 }
