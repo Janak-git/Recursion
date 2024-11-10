@@ -15,4 +15,5 @@ void fun(int n)
 int main(){
     int n;
     fun(5);
+    return 0;
 }
